@@ -20,13 +20,13 @@
    </div> 
  
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://mail.google.com/mail/u/0/#search/alexandremilim15%40gmail.com?compose=new">
+    <a href = "https://mail.google.com/mail/u/0/#search/altinolucas76%40gmail.com">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
     </a>
-    <a href = "https://www.instagram.com/milim.batman/">
+    <a href = "https://www.instagram.com/luc_altino/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/alexandre-milim-1ba537269/">
+    <a href = "https://www.linkedin.com/in/alexandre-milim-1ba537269/](https://www.linkedin.com/in/lucas-altino-da-rocha-silva-254554199/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
@@ -34,7 +34,6 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
@@ -47,5 +46,5 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexandre-milim}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasAltino}/count.svg" /></p> 
 <br></div>
